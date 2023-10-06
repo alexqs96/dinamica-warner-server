@@ -2,10 +2,11 @@
   "name": "dinamicawarner",
   "version": "1.0.0",
   "description": "",
-  "main": "scr/app.js",
+  "main": "src/app.js",
   "type": "module",
   "scripts": {
     "dev": "nodemon src/app.js",
+    "start": "nodemon src/app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Alumnos Pescar 2023",
